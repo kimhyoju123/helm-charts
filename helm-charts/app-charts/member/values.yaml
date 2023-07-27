@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: 9ilbert/member
   pullPolicy: Always
-  tag: "amd-0.1"
+  tag: "amd-0.1" # Intel/m1에 따라 변경해야함
 
 application:
   profile: ''
