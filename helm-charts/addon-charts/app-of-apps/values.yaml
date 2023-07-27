@@ -5,5 +5,5 @@ spec:
   destination:
     server: https://kubernetes.default.svc
   source:
-    repoURL: https://github.com/gilbertlim/helm-charts
+    repoURL: https://github.com/kimhyoju123/helm-charts.git
     targetRevision: main
